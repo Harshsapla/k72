@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import Agence from './pages/Agence'
 import Projects from './pages/Projects'
-import Navbar from './components/Navigation/Navbar'
+import Navbar from './components/Navigation/NavBar.jsx'
 import FullScreenNav from './components/Navigation/FullScreenNav'
 
 
